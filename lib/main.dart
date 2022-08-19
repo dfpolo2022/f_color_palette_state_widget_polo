@@ -9,5 +9,5 @@ void main() {
       showColors: true,
     ),
   );
-  runApp(const MyApp());
+  runApp(MyApp());
 }

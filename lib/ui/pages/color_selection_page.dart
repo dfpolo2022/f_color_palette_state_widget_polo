@@ -82,5 +82,6 @@ class ColorSelectionPage extends StatelessWidget {
 
   void showColor(String value) {
     // aqui llamar al callback del main widget
+    callback(value);
   }
 }
